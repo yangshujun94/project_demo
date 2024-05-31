@@ -1,0 +1,3 @@
+/home/yang/文档/杨淑君找工作简历/project_demo/cmake-build-debug/CMakeFiles/untitled1.dir
+/home/yang/文档/杨淑君找工作简历/project_demo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yang/文档/杨淑君找工作简历/project_demo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
